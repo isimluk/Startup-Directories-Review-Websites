@@ -8,7 +8,6 @@ Subreddits | Link
 --- | ---
 | AlphaandBetausers | https://www.reddit.com/r/alphaandbetausers/
 | IndieBiz | https://www.reddit.com/r/indiebiz/
-| ShamelessPlug | https://www.reddit.com/r/shamelessplug/
 | SideProject | http://reddit.com/r/sideproject
 | DesignCritques | https://www.reddit.com/r/design_critiques/
 | Entrepreneur | http://reddit.com/r/entrepreneur
